@@ -5,7 +5,7 @@ import sys
 import math
 
 ListOfPositions = []
-
+#Github = ThereIsNoCode/Triangle-Classifier-Practice
 #region-1
 class Vector2: #Handles User input and stores Positon
     def __init__(self, _userinput):
